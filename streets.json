@@ -1,0 +1,8 @@
+{
+	"streets":[
+		{"name":"A", "startPoint": {"x" : 0, "y": 100}, "streetLength" : 690, "orientation" : "EAST", "car_probability": 0.02, "max_speed" : 3},
+		{"name":"B", "startPoint": {"x" : 120, "y": 0}, "streetLength" : 460, "orientation" : "SOUTH", "car_probability": 0.01, "max_speed" : 1},
+		{"name":"C", "startPoint": {"x" : 0, "y": 150}, "streetLength" : 690, "orientation" : "WEST","car_probability": 0.01, "max_speed" : 4},
+		{"name":"D", "startPoint": {"x" : 180, "y": 0}, "streetLength" : 460, "orientation" : "NORTH", "car_probability": 0.04, "max_speed" : 3}
+		]
+}
